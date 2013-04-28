@@ -1,7 +1,6 @@
-
 CREATE TABLE cliente 
 (
-  id_cliente INT NOT NULL AUTO_INCREMENT,
+  	id_cliente INT NOT NULL AUTO_INCREMENT,
 	nome VARCHAR(200) NOT NULL,
 	email VARCHAR(100),
 	telefone INT,
