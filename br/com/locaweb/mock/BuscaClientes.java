@@ -11,7 +11,7 @@ import br.com.locaweb.Cliente;
  */
 public class BuscaClientes {
 
-  /**
+  	/**
 	 * Método responsável pelo retorno de todos clientes cadastrados. Dados fake
 	 * simulando consulta ao BD
 	 */
