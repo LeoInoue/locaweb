@@ -9,7 +9,7 @@ import br.com.locaweb.mock.BuscaPedidos;
  * @author Leonardo Inoue
  */
 public class NotaFiscal {
-  private Cliente cliente;
+  	private Cliente cliente;
 	private List<Pedido> pedidos;
 	private Date dataEmissao;
 	private double valorBruto;
