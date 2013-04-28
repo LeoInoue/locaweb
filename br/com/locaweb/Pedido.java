@@ -5,7 +5,7 @@ package br.com.locaweb;
  */
 public class Pedido {
 
-  private Cliente cliente;
+ 	private Cliente cliente;
 	private String tipoProduto;
 	private int quantidade;
 	private double valorUnitario;
