@@ -1,7 +1,6 @@
-
 CREATE TABLE pedido 
 (
-  id_pedido INT NOT NULL AUTO_INCREMENT,
+  	id_pedido INT NOT NULL AUTO_INCREMENT,
 	tipo_produto VARCHAR(100) NOT NULL,
 	quantidade INT NOT NULL,
 	valor_unitario DOUBLE NOT NULL,
