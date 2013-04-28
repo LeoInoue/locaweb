@@ -10,8 +10,8 @@ import br.com.locaweb.mock.BuscaClientes;
  * @author Leonardo Inoue
  */
 public class StartUp {
-
-  public static void main(String[] args) {
+	
+	public static void main(String[] args) {
 
 		// Trecho solicitado no exercício 1.1
 		List<Cliente> clientes = BuscaClientes.getClientes();
